@@ -1,43 +1,42 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOi0xLCJ0eXBlIjoiYXV0aCIsImtleSI6IjB4M2RmN0U0MkNCMkZiOTFmQjEzMTI4YjU2MEY2QkIyRmE4OTgwZDE1ZiJ9",
-    "payload": "eyJkb21haW4iOiJ0YXBnb3JpbGExNC52ZXJjZWwuYXBwIn0",
-    "signature": "AAAAAAAAAAAAAAAAyhG94Fl3s2MRZwKIYr4qFzl2yhEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiSCrVbLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAul7REO_bo9AFv8iC11NYrLu4WEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASQ_-6NvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAADuPFDuCfGlzHst9pPuOE8dEklNIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAPhSELIcxQMC9He6VmhtIBncm2etAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBPJykP560H76I-D7Dw1Jww2gqF5XCqXwb49eBddhe0PRbjvdcEhJe4uhhTnth-RTcEzH_ax3a9hCs77SPzfLFwRwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZJJkkmSSZJJkkmSSZJJkkmSSZJJkkmSSZJJkkmSSZJI"
-  },
+    "header": " ",
+    "payload": " ",
+    "signature": " " },
 "miniapp": {
   "version": "1",
   "name": "Bandor Tapper",
   "subtitle": "Tap to earn pata", 
   "description": "Tap Bandor to earn pata and it's a funny game",
 
-  "iconUrl": "https://tapgorila14.vercel.app/assets/icon.png",
-  "imageUrl": "https://tapgorila14.vercel.app/assets/embed-3x2.png",
-  "homeUrl": "https://tapgorila14.vercel.app/",
-  "canonicalDomain": "tapgorila14.vercel.app",
+  "iconUrl": "https://skyhook-sprint.vercel.app/assets/icon.png",
+  "imageUrl": "https://skyhook-sprint.vercel.app/assets/embed-3x2.png",
+  "homeUrl": "https://skyhook-sprint.vercel.app/",
+  "canonicalDomain": "skyhook-sprint.vercel.app",
 
-  "splashImageUrl": "https://tapgorila14.vercel.app/assets/splash-200.png",
+  "splashImageUrl": "https://skyhook-sprint.vercel.app/assets/splash-200.png",
   "splashBackgroundColor": "#000000",
   "primaryCategory": "games",
 
   "tags": ["game", "tap", "base", "miniapp"],
 
   "screenshotUrls": [
-    "https://tapgorila14.vercel.app/assets/screenshots/1.png",
-    "https://tapgorila14.vercel.app/assets/screenshots/2.png",
-    "https://tapgorila14.vercel.app/assets/screenshots/3.png"
+    "https://skyhook-sprint.vercel.app/assets/screenshots/1.png",
+    "https://skyhook-sprint.vercel.app/assets/screenshots/2.png",
+    "https://skyhook-sprint.vercel.app/assets/screenshots/3.png"
   ],
 
-  "heroImageUrl": "https://tapgorila14.vercel.app/assets/hero-1200x630.png",
+  "heroImageUrl": "https://skyhook-sprint.vercel.app/assets/hero-1200x630.png",
 
   "tagline": "Tap. Earn. Fun.",
 
   "ogTitle": "Bandor Tapper",
   "ogDescription": "Tap Bandor, earn pata, and climb the leaderboard!",
-  "ogImageUrl": "https://tapgorila14.vercel.app/assets/og-1200x630.png",
+  "ogImageUrl": "https://skyhook-sprint.vercel.app/assets/og-1200x630.png",
 
   "noindex": false,
 
-  "webhookUrl": "https://tapgorila14.vercel.app/api/webhook",
+  "webhookUrl": "https://skyhook-sprint.vercel.app/api/webhook",
 
   "requiredChains": ["eip155:8453"],
   "requiredCapabilities": ["actions.ready"]
